@@ -1,0 +1,40 @@
+.SideBar {
+  background-color: #0e1a2b;
+  width: 180px;
+  padding: 10px;
+  height: 400px;
+}
+
+.form {
+  color: white;
+}
+
+.form input {
+  background-color: #182c47;
+  border: none;
+  padding: 5px;
+  caret-color: white;
+}
+
+.form input:focus {
+  outline-width: 0;
+}
+
+.form select {
+  background-color: #182c47;
+  border: none;
+  color: white;
+  padding: 6px;
+}
+.clearContainer {
+  display: flex;
+  justify-content: end;
+  margin-top: 10px;
+}
+
+.clearContainer button {
+  padding: 8px 18px;
+  background-color: #5692e8;
+  border: none;
+  color: white;
+}

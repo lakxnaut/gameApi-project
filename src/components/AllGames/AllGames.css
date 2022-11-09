@@ -1,0 +1,38 @@
+.Allgames-Container {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.Nodata {
+  color: white;
+  font-size: 30px;
+}
+.AllGames {
+  color: white;
+  background-color: #0e1a2b;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 70vw;
+  height: 40vh;
+  gap: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+.AllGames-image-container {
+  background-color: black;
+  width: 100px;
+  height: 100%;
+}
+.number-container {
+  width: 20px;
+  height: 20px;
+  font-weight: bold;
+  background-color: #5692e8;
+  color: white;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.games-details {
+}
